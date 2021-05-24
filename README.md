@@ -1,4 +1,4 @@
-# Predicting oCandidates Who Stay/Leave the Company and the Prediction of the City Development Index
+# Predicting Candidates Who Stay/Leave the Company and the Prediction of the City Development Index
 Team 3: Xinping Yu, Ruchika Venkateswaran, Yigit Demiralp, Bosoo Kim, Muyan Xie
 
 ## Introduction and Motivation
